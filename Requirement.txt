@@ -1,0 +1,2 @@
+- VS code or another text editor
+- Python version 12---
